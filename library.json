@@ -12,7 +12,7 @@
   },
   "version": "2.0.6",
   "frameworks": "arduino",
-  "platforms": "esp32",
+  "platforms": "espressif32",
   "examples": [
 	"examples/1_SimpleTestShapes/*.ino",
 	"examples/1_SimpleTestShapes/*.cpp",
